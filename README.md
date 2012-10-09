@@ -3,7 +3,7 @@ log_wrapper
 
 *Fork me:* https://github.com/renenw/log_wrapper
 
-*Install me:* gem install log_wrapper
+*Install me:* `gem install log_wrapper`
 
 Basics
 ------
